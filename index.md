@@ -4,3 +4,6 @@
 ![This is a sample image of Terracottocat](https://octodex.github.com/images/Terracottocat_Single.png)
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+- [x] Using markdown
+- [x] This is my Github account
+- [ ] Introduce myself to the world
